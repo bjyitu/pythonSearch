@@ -1,7 +1,6 @@
 from os import popen
 from sys import argv
 
-# defined the variable
 # targetfile = 'nohup.out'
 # targetword = 'error'
 
